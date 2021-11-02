@@ -1,11 +1,18 @@
 # Task 1
 Input a string "Javascript", and then reverse sort the that string. print the output
-# Task 1 Answer
-1. start
-2. input text "Javascript"
-3. convert string to array
-4. convert output array to string
-5. output "tpircsavaJ"
-6. end
+## Task 1 Answer
+
 ## Flowchart Task 1
-![js-to-sj](https://user-images.githubusercontent.com/92015831/139886884-afefe289-afd9-4c7c-814e-1aa99fe3513c.png)
+
+# Task 2
+Palindrome detection
+- There is a word, check is that palindrome word or not
+- Example : "Malam", output : Palindrome
+
+# Task 3
+- Reverese words
+- There is a sentance, short that word into reverse word
+
+# Task 4
+- Change the character
+- There is a word "Surabaya", change "a" character into "o" till the result becomes "Suroboyo"
